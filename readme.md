@@ -1,4 +1,4 @@
-## About This Project
+# About This Project
 This project utilizes Google geocoding API to take user entered data and place them on a Google Map. This works best with specific locations with one distinct location.
 
 This script also utilizes SQLite and you will need to download this. Instructions are below:
@@ -8,7 +8,7 @@ the databases from:
 
 http://sqlitebrowser.org/
 
-## How to Use this Project
+# How to Use this Project
 
 The first phase of the project uses where.data and reads one line at a time, retreives the geocoded response, and stoires it in the database (geodata.sqlite). B
 To prevent excessive calls, before we use the geocoding API we already have the data for that particular line of input. If found it is stored in the database.
@@ -23,7 +23,8 @@ https://developers.google.com/maps/documentation/geocoding/intro
 
 and put the API key in the code.
 
-# Example of a Successful Run - Sample run after there is already some data in the database:
+# Example of a Successful Run
+## Sample run after there is already some data in the database:
 
 Mac: python3 geoload.py or Win: geoload.py
 
@@ -65,7 +66,7 @@ executable JavaScript code.
 
 
 
-### A run of the geodump.py program is as follows:
+# A run of the geodump.py program is as follows:
 
 Mac: python3 geodump.py or Win: geodump.py
 

@@ -1,5 +1,5 @@
 # About This Project
-This project utilizes Google geocoding API to take user entered data and place them on a Google Map. This works best with specific locations with one distinct location.
+This project utilizes javascrip, python, and Google geocoding API to take user entered data and place them on a Google Map. This works best with specific locations with one distinct location.
 
 This script also utilizes SQLite and you will need to download this. Instructions are below:
 

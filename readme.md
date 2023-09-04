@@ -26,6 +26,7 @@ and put the API key in the code.
 ### Example of a Successful Run - Sample run after there is already some data in the database:
 
 Mac: python3 geoload.py
+
 Win: geoload.py
 
 Found in database  Northeastern University

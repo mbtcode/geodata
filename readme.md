@@ -23,7 +23,7 @@ https://developers.google.com/maps/documentation/geocoding/intro
 
 and put the API key in the code.
 
-# Example of a Successful Run
+# Example of a Successful Runs are Below
 ## Sample run after there is already some data in the database:
 
 Mac: python3 geoload.py or Win: geoload.py

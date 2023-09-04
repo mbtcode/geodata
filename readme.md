@@ -8,7 +8,7 @@ the databases from:
 
 http://sqlitebrowser.org/
 
-### How to Use this Project
+## How to Use this Project
 
 The first phase of the project uses where.data and reads one line at a time, retreives the geocoded response, and stoires it in the database (geodata.sqlite). B
 To prevent excessive calls, before we use the geocoding API we already have the data for that particular line of input. If found it is stored in the database.
@@ -23,7 +23,7 @@ https://developers.google.com/maps/documentation/geocoding/intro
 
 and put the API key in the code.
 
-### Example of a Successful Run - Sample run after there is already some data in the database:
+# Example of a Successful Run - Sample run after there is already some data in the database:
 
 Mac: python3 geoload.py or Win: geoload.py
 

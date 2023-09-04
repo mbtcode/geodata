@@ -25,9 +25,7 @@ and put the API key in the code.
 
 ### Example of a Successful Run - Sample run after there is already some data in the database:
 
-Mac: python3 geoload.py
-
-Win: geoload.py
+Mac: python3 geoload.py or Win: geoload.py
 
 Found in database  Northeastern University
 
@@ -69,8 +67,7 @@ executable JavaScript code.
 
 ### A run of the geodump.py program is as follows:
 
-Mac: python3 geodump.py
-Win: geodump.py
+Mac: python3 geodump.py or Win: geodump.py
 
 Northeastern University, 360 Huntington Avenue, Boston, MA 02115, USA 42.3396998 -71.08975
 Bradley University, 1501 West Bradley Avenue, Peoria, IL 61625, USA 40.6963857 -89.6160811
